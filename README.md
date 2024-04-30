@@ -17,3 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
                                                    ![Screenshot 2024-04-30 220042](https://github.com/Bruno00102/Final_round_Task_manager/assets/139876259/2911ae7c-0407-4068-af5f-1e67290e4494)
 ![Screenshot 2024-04-30 220439](https://github.com/Bruno00102/Final_round_Task_manager/assets/139876259/54806031-3049-4be8-9743-6310f1eade10)![Screenshot 2024-04-30 220413](https://github.com/Bruno00102/Final_round_Task_manager/assets/139876259/dd7e4d9b-0df0-4137-8f18-a4fc09c2d760)
 
+
+![Screenshot 2024-04-30 220042](https://github.com/Bruno00102/Final_round_Task_manager/assets/139876259/3dce10cc-859b-4633-9a4c-b4aa798a5380)
+
